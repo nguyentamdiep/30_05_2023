@@ -1,0 +1,4 @@
+classses = 1
+train = train.txt
+names = yolo.names 
+backup = backup 
